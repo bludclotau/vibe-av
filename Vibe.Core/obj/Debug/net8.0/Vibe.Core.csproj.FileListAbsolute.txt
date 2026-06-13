@@ -1,0 +1,11 @@
+/home/snerloc/vibe-av/Vibe.Core/bin/Debug/net8.0/Vibe.Core.deps.json
+/home/snerloc/vibe-av/Vibe.Core/bin/Debug/net8.0/Vibe.Core.dll
+/home/snerloc/vibe-av/Vibe.Core/bin/Debug/net8.0/Vibe.Core.pdb
+/home/snerloc/vibe-av/Vibe.Core/obj/Debug/net8.0/Vibe.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/snerloc/vibe-av/Vibe.Core/obj/Debug/net8.0/Vibe.Core.AssemblyInfoInputs.cache
+/home/snerloc/vibe-av/Vibe.Core/obj/Debug/net8.0/Vibe.Core.AssemblyInfo.cs
+/home/snerloc/vibe-av/Vibe.Core/obj/Debug/net8.0/Vibe.Core.csproj.CoreCompileInputs.cache
+/home/snerloc/vibe-av/Vibe.Core/obj/Debug/net8.0/Vibe.Core.dll
+/home/snerloc/vibe-av/Vibe.Core/obj/Debug/net8.0/refint/Vibe.Core.dll
+/home/snerloc/vibe-av/Vibe.Core/obj/Debug/net8.0/Vibe.Core.pdb
+/home/snerloc/vibe-av/Vibe.Core/obj/Debug/net8.0/ref/Vibe.Core.dll

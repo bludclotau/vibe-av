@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibe.Core", "Vibe.Core\Vibe.Core.csproj", "{DCDE87B0-648D-466F-AA1D-A7878DA3AB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibe.Host", "Vibe.Host\Vibe.Host.csproj", "{3F920BA4-C011-4AE8-ADF3-BAEB4E2425DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibe.Engine", "Vibe.Engine\Vibe.Engine.csproj", "{6E780A34-72AE-42CB-A4D8-BB4B7AF7B97E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDE87B0-648D-466F-AA1D-A7878DA3AB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDE87B0-648D-466F-AA1D-A7878DA3AB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDE87B0-648D-466F-AA1D-A7878DA3AB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDE87B0-648D-466F-AA1D-A7878DA3AB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F920BA4-C011-4AE8-ADF3-BAEB4E2425DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F920BA4-C011-4AE8-ADF3-BAEB4E2425DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F920BA4-C011-4AE8-ADF3-BAEB4E2425DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F920BA4-C011-4AE8-ADF3-BAEB4E2425DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E780A34-72AE-42CB-A4D8-BB4B7AF7B97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E780A34-72AE-42CB-A4D8-BB4B7AF7B97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E780A34-72AE-42CB-A4D8-BB4B7AF7B97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E780A34-72AE-42CB-A4D8-BB4B7AF7B97E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

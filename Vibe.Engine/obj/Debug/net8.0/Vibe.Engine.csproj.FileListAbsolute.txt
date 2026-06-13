@@ -1,0 +1,15 @@
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/Vibe.Engine.csproj.AssemblyReference.cache
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/Vibe.Engine.GeneratedMSBuildEditorConfig.editorconfig
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/Vibe.Engine.AssemblyInfoInputs.cache
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/Vibe.Engine.AssemblyInfo.cs
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/Vibe.Engine.csproj.CoreCompileInputs.cache
+/home/snerloc/vibe-av/Vibe.Engine/bin/Debug/net8.0/Vibe.Engine.deps.json
+/home/snerloc/vibe-av/Vibe.Engine/bin/Debug/net8.0/Vibe.Engine.dll
+/home/snerloc/vibe-av/Vibe.Engine/bin/Debug/net8.0/Vibe.Engine.pdb
+/home/snerloc/vibe-av/Vibe.Engine/bin/Debug/net8.0/Vibe.Core.dll
+/home/snerloc/vibe-av/Vibe.Engine/bin/Debug/net8.0/Vibe.Core.pdb
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/Vibe.Eng.10045A1B.Up2Date
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/Vibe.Engine.dll
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/refint/Vibe.Engine.dll
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/Vibe.Engine.pdb
+/home/snerloc/vibe-av/Vibe.Engine/obj/Debug/net8.0/ref/Vibe.Engine.dll

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vibe.Host/1.0.0": {
+        "dependencies": {
+          "Vibe.Core": "1.0.0",
+          "Vibe.Engine": "1.0.0"
+        },
+        "runtime": {
+          "Vibe.Host.dll": {}
+        }
+      },
+      "Vibe.Core/1.0.0": {
+        "runtime": {
+          "Vibe.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Vibe.Engine/1.0.0": {
+        "dependencies": {
+          "Vibe.Core": "1.0.0"
+        },
+        "runtime": {
+          "Vibe.Engine.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vibe.Host/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vibe.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vibe.Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
