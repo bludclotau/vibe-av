@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/snerloc/vibe-av/Visual/Visual.csproj": {}
+  },
+  "projects": {
+    "/home/snerloc/vibe-av/AVEngine/AVEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/snerloc/vibe-av/AVEngine/AVEngine.csproj",
+        "projectName": "AVEngine",
+        "projectPath": "/home/snerloc/vibe-av/AVEngine/AVEngine.csproj",
+        "packagesPath": "/home/snerloc/.nuget/packages/",
+        "outputPath": "/home/snerloc/vibe-av/AVEngine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/snerloc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/snerloc/vibe-av/Vibe.Core/Vibe.Core.csproj": {
+                "projectPath": "/home/snerloc/vibe-av/Vibe.Core/Vibe.Core.csproj"
+              },
+              "/home/snerloc/vibe-av/Vibe.Engine/Vibe.Engine.csproj": {
+                "projectPath": "/home/snerloc/vibe-av/Vibe.Engine/Vibe.Engine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/snerloc/.dotnet/sdk/8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/snerloc/vibe-av/Vibe.Core/Vibe.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/snerloc/vibe-av/Vibe.Core/Vibe.Core.csproj",
+        "projectName": "Vibe.Core",
+        "projectPath": "/home/snerloc/vibe-av/Vibe.Core/Vibe.Core.csproj",
+        "packagesPath": "/home/snerloc/.nuget/packages/",
+        "outputPath": "/home/snerloc/vibe-av/Vibe.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/snerloc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/snerloc/.dotnet/sdk/8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/snerloc/vibe-av/Vibe.Engine/Vibe.Engine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/snerloc/vibe-av/Vibe.Engine/Vibe.Engine.csproj",
+        "projectName": "Vibe.Engine",
+        "projectPath": "/home/snerloc/vibe-av/Vibe.Engine/Vibe.Engine.csproj",
+        "packagesPath": "/home/snerloc/.nuget/packages/",
+        "outputPath": "/home/snerloc/vibe-av/Vibe.Engine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/snerloc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/snerloc/vibe-av/Vibe.Core/Vibe.Core.csproj": {
+                "projectPath": "/home/snerloc/vibe-av/Vibe.Core/Vibe.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/snerloc/.dotnet/sdk/8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/snerloc/vibe-av/Visual/Visual.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/snerloc/vibe-av/Visual/Visual.csproj",
+        "projectName": "Visual",
+        "projectPath": "/home/snerloc/vibe-av/Visual/Visual.csproj",
+        "packagesPath": "/home/snerloc/.nuget/packages/",
+        "outputPath": "/home/snerloc/vibe-av/Visual/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/snerloc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/snerloc/vibe-av/AVEngine/AVEngine.csproj": {
+                "projectPath": "/home/snerloc/vibe-av/AVEngine/AVEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/snerloc/.dotnet/sdk/8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

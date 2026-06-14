@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Visual/1.0.0": {
+        "dependencies": {
+          "AVEngine": "1.0.0"
+        },
+        "runtime": {
+          "Visual.dll": {}
+        }
+      },
+      "AVEngine/1.0.0": {
+        "dependencies": {
+          "Vibe.Core": "1.0.0",
+          "Vibe.Engine": "1.0.0"
+        },
+        "runtime": {
+          "AVEngine.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Vibe.Core/1.0.0": {
+        "runtime": {
+          "Vibe.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Vibe.Engine/1.0.0": {
+        "dependencies": {
+          "Vibe.Core": "1.0.0"
+        },
+        "runtime": {
+          "Vibe.Engine.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AVEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vibe.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vibe.Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
